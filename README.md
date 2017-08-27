@@ -23,6 +23,7 @@
 
 ## Requirements
 
+- [Arduino IDE](https://www.arduino.cc/en/main/software)
 - [BOSCH BME280](https://www.bosch-sensortec.com/bst/products/all_products/bme280)
   - 0.01%RH 程度の湿度分解能が必要です
   - [BME280I2C.h](https://github.com/finitespace/BME280)
